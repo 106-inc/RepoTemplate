@@ -1,2 +1,2 @@
-# sim2022
-## RISC-V simulator
+# RepoTemplate
+## Template repository for c++ projects
